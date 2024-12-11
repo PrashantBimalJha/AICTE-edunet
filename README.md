@@ -1,5 +1,4 @@
 
-
 # ChatBot Flask Web Application
 
 This project is a simple chatbot built with Python using the Flask framework. The bot responds to predefined questions and gives basic information on topics like programming languages, web development technologies, and even a joke!
@@ -36,7 +35,7 @@ This project is a simple chatbot built with Python using the Flask framework. Th
    ```bash
    git clone https://github.com/yourusername/chatbot-flask-app.git
    ```
-   
+
 2. Navigate to the project directory:
    ```bash
    cd chatbot-flask-app
@@ -77,12 +76,16 @@ chatbot-flask-app/
 3. Press the "Send" button or hit "Enter" to submit your message.
 4. The chatbot will respond with an answer based on the predefined responses.
 
-## Contributions
+## Acknowledgements
 
-Feel free to fork the repository and submit pull requests. Contributions are always welcome!
+- Special thanks to **AICTE** for their support and guidance throughout this project.
+- I would like to express my gratitude to my supervisor, **Aditya Prashant Ardak**, for his valuable insights and guidance.
 
-## License
+## Contact Me
 
-This project is licensed under the MIT License.
+- **Email**: prashantb3005@gmail.com
+- **Phone**: +91 9819258173
+- **LinkedIn**: [www.linkedin.com/in/prashantb3005](https://www.linkedin.com/in/prashantb3005)
 
 ---
+
