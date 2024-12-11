@@ -78,14 +78,11 @@ chatbot-flask-app/
 
 ## Acknowledgements
 
-- Special thanks to **AICTE** for their support and guidance throughout this project.
-- I would like to express my gratitude to my supervisor, **Aditya Prashant Ardak**, for his valuable insights and guidance.
+I would like to express my sincere gratitude to **AICTE** for their support in this project. I am also deeply thankful to my supervisor, **Aditya Prashant Ardak**, for his invaluable guidance and continuous encouragement throughout the development of this project.
 
 ## Contact Me
 
 - **Email**: prashantb3005@gmail.com
 - **Phone**: +91 9819258173
 - **LinkedIn**: [www.linkedin.com/in/prashantb3005](https://www.linkedin.com/in/prashantb3005)
-
----
 
